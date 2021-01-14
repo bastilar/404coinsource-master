@@ -1,0 +1,21 @@
+
+https://404coin.com
+
+Algorithm	Scrypt
+Type	PoW/PoS
+Coin name	404
+Coin abbreviation	404
+Address letter	4
+RPC port	31666   
+P2P port	31667
+Block reward	1000 coins
+
+
+
+
+PoS percentage	404%er year
+Last PoW block	block 404
+Coinbase maturity	20 blocks
+Target spacing	180seconds
+Target timespan	1 block
+Transaction confirmations	6 blocks
